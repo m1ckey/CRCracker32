@@ -68,7 +68,7 @@ public class CRCracker32 {
     System.out.println("A simple CRC32 Brute-Forcer by m1ckey");
     System.out.println();
     System.out.println("Usage:");
-    System.out.println("  java CRCracker32 <crc32 in hex>...");
+    System.out.println("  java CRCracker32 <CRC32 in HEX>...");
     System.out.println();
     System.out.println("Example:");
     System.out.println("  java CRCracker32 0x13371337");

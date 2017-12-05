@@ -1,7 +1,5 @@
 # CRCracker32
 
----
-
 A simple CRC32 Brute-Forcer by m1ckey
 
 ```
